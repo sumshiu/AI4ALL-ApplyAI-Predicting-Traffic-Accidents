@@ -25,7 +25,7 @@
 
 ## Data Sources <!--- do not change this line -->
 
-*Kaggle Datasets: [[Link to Kaggle Dataset](https://www.kaggle.com/datasets)](https://www.kaggle.com/code/jingzongwang/usa-car-accidents-severity-prediction)*
+*Kaggle Datasets: (https://www.kaggle.com/code/jingzongwang/usa-car-accidents-severity-prediction)*
 
 ## Technologies Used <!--- do not change this line -->
 
